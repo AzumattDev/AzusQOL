@@ -4,6 +4,8 @@
 
 `Note:` This modpack doesn't currently contain a "Craft From Containers" type of mod. I am in the process of rewriting my own version of it, but it's not ready yet. I will update this modpack when it is. The recent update to Valheim forced my hand in pushing this out quicker.
 
+You can track the changes that I make to the modpack [here](https://github.com/AzumattDev/AzusQOL) 
+
 ---
 ## This modpack consists of the following mods, please follow the links to see their individual descriptions and tags should you have further questions:
 [AzuAutoStore](https://valheim.thunderstore.io/package/Azumatt/AzuAutoStore/)
