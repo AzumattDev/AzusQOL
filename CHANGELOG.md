@@ -2,6 +2,7 @@
 
 | `Version` | `Update Notes`                                                                                                                                                                     |
 |-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0.5     | - Update AAA Crafting and Jotunn                                                                                                                                                   |
 | 1.0.4     | - Update AzuEPI                                                                                                                                                                    |
 | 1.0.3     | - Update to the latest of each mod.                                                                                                                                                |
 | 1.0.2     | - Make sure to target new Jotunn for the mod that relies on it.                                                                                                                    |
