@@ -2,6 +2,7 @@
 
 | `Version` | `Update Notes`                                                                                                                                                                     |
 |-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0.9     | - Update to latest AzuCraftyBoxes                                                                                                                                                  |
 | 1.0.8     | - Update to latest Jotunn and AzuCraftyBoxes                                                                                                                                       |
 | 1.0.7     | - Add AzuCraftyBoxes, update to latest BepInEx for Valheim  5.4.2105                                                                                                               |
 | 1.0.6     | - Update AzuEPI                                                                                                                                                                    |
