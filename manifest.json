@@ -1,17 +1,17 @@
 ﻿{
   "name": "AzuQOL",
-  "version_number": "1.0.9",
+  "version_number": "1.0.10",
   "website_url": "https://github.com/AzumattDev/AzusQOL",
   "description": "A collection of QOL mods that replace OdinsQOL and give life to your game. Some are by me, some are by others that do what OdinsQOL did, but better.",
   "dependencies": [
     "Advize-PlantEverything-1.13.4",
-    "Azumatt-AAA_Crafting-1.0.7",
+    "Azumatt-AAA_Crafting-1.0.8",
     "Azumatt-AllTheBases-1.0.5",
     "Azumatt-AzuAreaRepair-1.0.1",
     "Azumatt-AzuAutoStore-1.0.2",
     "Azumatt-AzuClock-1.0.0",
     "Azumatt-AzuContainerSizes-1.0.1",
-    "Azumatt-AzuCraftyBoxes-1.0.2",
+    "Azumatt-AzuCraftyBoxes-1.0.3",
     "Azumatt-AzuExtendedPlayerInventory-1.0.8",
     "Azumatt-AzuHoverStats-1.0.6",
     "Azumatt-AzuMapDetails-1.0.0",
@@ -32,6 +32,6 @@
     "denikson-BepInExPack_Valheim-5.4.2105",
     "Digitalroot-Max_Dungeon_Rooms-2.0.10",
     "OdinPlus-OdinsInventoryDiscard-1.0.2",
-    "ValheimModding-Jotunn-2.11.4"
+    "ValheimModding-Jotunn-2.11.5"
   ]
 }
