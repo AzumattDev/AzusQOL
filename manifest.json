@@ -1,6 +1,6 @@
 ﻿{
   "name": "AzuQOL",
-  "version_number": "1.0.11",
+  "version_number": "1.0.12",
   "website_url": "https://github.com/AzumattDev/AzusQOL",
   "description": "A collection of QOL mods that replace OdinsQOL and give life to your game. Some are by me, some are by others that do what OdinsQOL did, but better.",
   "dependencies": [
@@ -11,7 +11,7 @@
     "Azumatt-AzuAutoStore-1.0.2",
     "Azumatt-AzuClock-1.0.0",
     "Azumatt-AzuContainerSizes-1.0.1",
-    "Azumatt-AzuCraftyBoxes-1.0.4",
+    "Azumatt-AzuCraftyBoxes-1.0.5",
     "Azumatt-AzuExtendedPlayerInventory-1.0.8",
     "Azumatt-AzuHoverStats-1.0.7",
     "Azumatt-AzuMapDetails-1.0.1",
