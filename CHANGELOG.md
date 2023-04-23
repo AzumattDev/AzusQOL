@@ -2,6 +2,7 @@
 
 | `Version` | `Update Notes`                                                                                                                                                                     |
 |-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0.13    | - HoverStats update                                                                                                                                                                |
 | 1.0.12    | - ACB update again                                                                                                                                                                 |
 | 1.0.11    | - Update Azu(CraftyBoxes, Map Details, and Hover Stats)                                                                                                                            |
 | 1.0.10    | - Update Jotunn, AzuCraftyBoxes, and AAA Crafting.                                                                                                                                 |
