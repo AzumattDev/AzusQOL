@@ -2,8 +2,6 @@
 
 ## A collection of QOL mods that replace OdinsQOL and give life to your game. Some are by me, some are by others that do what OdinsQOL did, but better.
 
-`Note:` This modpack doesn't currently contain a "Craft From Containers" type of mod. I am in the process of rewriting my own version of it, but it's not ready yet. I will update this modpack when it is. The recent update to Valheim forced my hand in pushing this out quicker.
-
 You can track the changes that I make to the modpack [here](https://github.com/AzumattDev/AzusQOL) 
 
 ---
@@ -17,6 +15,8 @@ You can track the changes that I make to the modpack [here](https://github.com/A
 [AzuClock](https://valheim.thunderstore.io/package/Azumatt/AzuClock/)
 
 [AzuContainerSizes](https://valheim.thunderstore.io/package/Azumatt/AzuContainerSizes/)
+
+[AzuCraftyBoxes](https://valheim.thunderstore.io/package/Azumatt/AzuCraftyBoxes/)
 
 [Max_Dungeon_Rooms](https://valheim.thunderstore.io/package/Digitalroot/Max_Dungeon_Rooms/)
 
