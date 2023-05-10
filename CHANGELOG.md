@@ -2,6 +2,7 @@
 
 | `Version` | `Update Notes`                                                                                                                                                                     |
 |-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0.16    | - Update Jotunn, Recipe Description Expansion, FastLink and AzuCraftyBoxes.                                                                                                        |
 | 1.0.15    | - CraftyBoxes update.                                                                                                                                                              |
 | 1.0.14    | - MiscPatches update.                                                                                                                                                              |
 | 1.0.13    | - HoverStats update                                                                                                                                                                |
