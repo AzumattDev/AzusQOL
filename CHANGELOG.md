@@ -2,6 +2,7 @@
 
 | `Version` | `Update Notes`                                                                                                                                                                     |
 |-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0.20    | - Remove OdinsInventoryDiscard, update Max Dungeon Rooms                                                                                                                           |
 | 1.0.19    | - Update AzuCraftyBoxes                                                                                                                                                            |
 | 1.0.18    | - Update Jotunn and AzuCraftyBoxes                                                                                                                                                 |
 | 1.0.17    | - Update pretty much all of the mods after 0.216.9 Valheim Update                                                                                                                  |
