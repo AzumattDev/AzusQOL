@@ -2,53 +2,13 @@
 
 ## A collection of QOL mods that replace OdinsQOL and give life to your game. Some are by me, some are by others that do what OdinsQOL did, but better.
 
-You can track the changes that I make to the modpack [here](https://github.com/AzumattDev/AzusQOL) 
+You can track the changes that I make to the modpack [here](https://github.com/AzumattDev/AzusQOL)
 
 ---
-## This modpack consists of the following mods, please follow the links to see their individual descriptions and tags should you have further questions:
-[AzuAutoStore](https://valheim.thunderstore.io/package/Azumatt/AzuAutoStore/)
 
-[FastLink](https://valheim.thunderstore.io/package/Azumatt/FastLink/)
-
-[AzuMiscPatches](https://valheim.thunderstore.io/package/Azumatt/AzuMiscPatches/)
-
-[AzuClock](https://valheim.thunderstore.io/package/Azumatt/AzuClock/)
-
-[AzuContainerSizes](https://valheim.thunderstore.io/package/Azumatt/AzuContainerSizes/)
-
-[AzuCraftyBoxes](https://valheim.thunderstore.io/package/Azumatt/AzuCraftyBoxes/)
-
-[Max_Dungeon_Rooms](https://valheim.thunderstore.io/package/Digitalroot/Max_Dungeon_Rooms/)
-
-[AzuExtendedPlayerInventory](https://valheim.thunderstore.io/package/Azumatt/AzuExtendedPlayerInventory/)
-
-[AzuHoverStats](https://valheim.thunderstore.io/package/Azumatt/AzuHoverStats/)
-
-[AAA_Crafting](https://valheim.thunderstore.io/package/Azumatt/AAA_Crafting/)
-
-[OdinsInventoryDiscard](https://valheim.thunderstore.io/package/OdinPlus/OdinsInventoryDiscard/)
-
-[AzuWorkbenchTweaks](https://valheim.thunderstore.io/package/Azumatt/AzuWorkbenchTweaks/)
-
-[AzuMapDetails](https://valheim.thunderstore.io/package/Azumatt/AzuMapDetails/)
-
-[PlantEverything](https://valheim.thunderstore.io/package/Advize/PlantEverything/)
-
-[AzuAreaRepair](https://valheim.thunderstore.io/package/Azumatt/AzuAreaRepair/)
-
-[AllTheBases](https://valheim.thunderstore.io/package/Azumatt/AllTheBases/)
-
-[MaxPlayerCount](https://valheim.thunderstore.io/package/Azumatt/MaxPlayerCount/)
-
-[AzuSigns](https://valheim.thunderstore.io/package/Azumatt/AzuSigns/)
-
-[AzuSkillTweaks](https://valheim.thunderstore.io/package/Azumatt/AzuSkillTweaks/)
-
-[AzuWearNTearPatches](https://valheim.thunderstore.io/package/Azumatt/AzuWearNTearPatches/)
-
+The list of mods in this pack will be found on the mod page's listing of dependencies.
 
 `Feel free to reach out to me on discord if you need manual download assistance.`
-
 
 # Author Information
 

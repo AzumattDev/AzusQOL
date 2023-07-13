@@ -2,6 +2,7 @@
 
 | `Version` | `Update Notes`                                                                                                                                                                     |
 |-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0.21    | - Update AzuSigns, Jotunn, and the ConfigurationManager                                                                                                                            |
 | 1.0.20    | - Remove OdinsInventoryDiscard, update Max Dungeon Rooms                                                                                                                           |
 | 1.0.19    | - Update AzuCraftyBoxes                                                                                                                                                            |
 | 1.0.18    | - Update Jotunn and AzuCraftyBoxes                                                                                                                                                 |
