@@ -1,8 +1,8 @@
 ﻿{
   "name": "AzuQOL",
-  "version_number": "2.1.0",
+  "version_number": "2.1.1",
   "website_url": "https://github.com/AzumattDev/AzusQOL",
-  "description": "A collection of QOL mods that replace OdinsQOL and give life to your game. Some are by me, some are by others that do what OdinsQOL did, but better.",
+  "description": "A collection of QOL mods that give life to your game. Some are by me, some are by others.",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2202",
     "Azumatt-MaxPlayerCount-1.2.1",
@@ -36,6 +36,8 @@
     "Azumatt-Valheim_Minus-1.0.1",
     "Azumatt-ModAge-1.0.4",
     "Azumatt-Ship_Stats-1.0.3",
-    "Azumatt-ResourceUnloadOptimizer-1.0.2"
+    "Azumatt-ResourceUnloadOptimizer-1.0.2",
+    "Azumatt-SearchableBuildMenu-1.0.2",
+    "Azumatt-LimitWorkstationDiscovery-1.0.1"
   ]
 }
